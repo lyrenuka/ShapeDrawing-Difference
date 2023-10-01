@@ -1,0 +1,113 @@
+C:\Users\Dhanusha\Documents\Code\WorkingWithObjects\bin\Debug\net7.0\WorkingWithObjects.exe
+C:\Users\Dhanusha\Documents\Code\WorkingWithObjects\bin\Debug\net7.0\WorkingWithObjects.deps.json
+C:\Users\Dhanusha\Documents\Code\WorkingWithObjects\bin\Debug\net7.0\WorkingWithObjects.runtimeconfig.json
+C:\Users\Dhanusha\Documents\Code\WorkingWithObjects\bin\Debug\net7.0\WorkingWithObjects.dll
+C:\Users\Dhanusha\Documents\Code\WorkingWithObjects\bin\Debug\net7.0\WorkingWithObjects.pdb
+C:\Users\Dhanusha\Documents\Code\WorkingWithObjects\obj\Debug\net7.0\WorkingWithObjects.csproj.AssemblyReference.cache
+C:\Users\Dhanusha\Documents\Code\WorkingWithObjects\obj\Debug\net7.0\WorkingWithObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dhanusha\Documents\Code\WorkingWithObjects\obj\Debug\net7.0\WorkingWithObjects.AssemblyInfoInputs.cache
+C:\Users\Dhanusha\Documents\Code\WorkingWithObjects\obj\Debug\net7.0\WorkingWithObjects.AssemblyInfo.cs
+C:\Users\Dhanusha\Documents\Code\WorkingWithObjects\obj\Debug\net7.0\WorkingWithObjects.csproj.CoreCompileInputs.cache
+C:\Users\Dhanusha\Documents\Code\WorkingWithObjects\obj\Debug\net7.0\WorkingWithObjects.dll
+C:\Users\Dhanusha\Documents\Code\WorkingWithObjects\obj\Debug\net7.0\refint\WorkingWithObjects.dll
+C:\Users\Dhanusha\Documents\Code\WorkingWithObjects\obj\Debug\net7.0\WorkingWithObjects.pdb
+C:\Users\Dhanusha\Documents\Code\WorkingWithObjects\obj\Debug\net7.0\WorkingWithObjects.genruntimeconfig.cache
+C:\Users\Dhanusha\Documents\Code\WorkingWithObjects\obj\Debug\net7.0\ref\WorkingWithObjects.dll
+C:\Users\Dhanusha\Desktop\Code\WorkingWithObjects\bin\Debug\net7.0\WorkingWithObjects.exe
+C:\Users\Dhanusha\Desktop\Code\WorkingWithObjects\bin\Debug\net7.0\WorkingWithObjects.deps.json
+C:\Users\Dhanusha\Desktop\Code\WorkingWithObjects\bin\Debug\net7.0\WorkingWithObjects.runtimeconfig.json
+C:\Users\Dhanusha\Desktop\Code\WorkingWithObjects\bin\Debug\net7.0\WorkingWithObjects.dll
+C:\Users\Dhanusha\Desktop\Code\WorkingWithObjects\bin\Debug\net7.0\WorkingWithObjects.pdb
+C:\Users\Dhanusha\Desktop\Code\WorkingWithObjects\obj\Debug\net7.0\WorkingWithObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dhanusha\Desktop\Code\WorkingWithObjects\obj\Debug\net7.0\WorkingWithObjects.AssemblyInfoInputs.cache
+C:\Users\Dhanusha\Desktop\Code\WorkingWithObjects\obj\Debug\net7.0\WorkingWithObjects.AssemblyInfo.cs
+C:\Users\Dhanusha\Desktop\Code\WorkingWithObjects\obj\Debug\net7.0\WorkingWithObjects.csproj.CoreCompileInputs.cache
+C:\Users\Dhanusha\Desktop\Code\WorkingWithObjects\obj\Debug\net7.0\WorkingWithObjects.dll
+C:\Users\Dhanusha\Desktop\Code\WorkingWithObjects\obj\Debug\net7.0\refint\WorkingWithObjects.dll
+C:\Users\Dhanusha\Desktop\Code\WorkingWithObjects\obj\Debug\net7.0\WorkingWithObjects.pdb
+C:\Users\Dhanusha\Desktop\Code\WorkingWithObjects\obj\Debug\net7.0\WorkingWithObjects.genruntimeconfig.cache
+C:\Users\Dhanusha\Desktop\Code\WorkingWithObjects\obj\Debug\net7.0\ref\WorkingWithObjects.dll
+C:\Users\Dhanusha\Desktop\WorkingWithObjects\bin\Debug\net7.0\WorkingWithObjects.exe
+C:\Users\Dhanusha\Desktop\WorkingWithObjects\bin\Debug\net7.0\WorkingWithObjects.deps.json
+C:\Users\Dhanusha\Desktop\WorkingWithObjects\bin\Debug\net7.0\WorkingWithObjects.runtimeconfig.json
+C:\Users\Dhanusha\Desktop\WorkingWithObjects\bin\Debug\net7.0\WorkingWithObjects.dll
+C:\Users\Dhanusha\Desktop\WorkingWithObjects\bin\Debug\net7.0\WorkingWithObjects.pdb
+C:\Users\Dhanusha\Desktop\WorkingWithObjects\obj\Debug\net7.0\WorkingWithObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dhanusha\Desktop\WorkingWithObjects\obj\Debug\net7.0\WorkingWithObjects.AssemblyInfoInputs.cache
+C:\Users\Dhanusha\Desktop\WorkingWithObjects\obj\Debug\net7.0\WorkingWithObjects.AssemblyInfo.cs
+C:\Users\Dhanusha\Desktop\WorkingWithObjects\obj\Debug\net7.0\WorkingWithObjects.csproj.CoreCompileInputs.cache
+C:\Users\Dhanusha\Desktop\WorkingWithObjects\obj\Debug\net7.0\WorkingWithObjects.dll
+C:\Users\Dhanusha\Desktop\WorkingWithObjects\obj\Debug\net7.0\refint\WorkingWithObjects.dll
+C:\Users\Dhanusha\Desktop\WorkingWithObjects\obj\Debug\net7.0\WorkingWithObjects.pdb
+C:\Users\Dhanusha\Desktop\WorkingWithObjects\obj\Debug\net7.0\WorkingWithObjects.genruntimeconfig.cache
+C:\Users\Dhanusha\Desktop\WorkingWithObjects\obj\Debug\net7.0\ref\WorkingWithObjects.dll
+C:\Users\Dhanusha\Pictures\WorkingWithObjects\bin\Debug\net7.0\WorkingWithObjects.exe
+C:\Users\Dhanusha\Pictures\WorkingWithObjects\bin\Debug\net7.0\WorkingWithObjects.deps.json
+C:\Users\Dhanusha\Pictures\WorkingWithObjects\bin\Debug\net7.0\WorkingWithObjects.runtimeconfig.json
+C:\Users\Dhanusha\Pictures\WorkingWithObjects\bin\Debug\net7.0\WorkingWithObjects.dll
+C:\Users\Dhanusha\Pictures\WorkingWithObjects\bin\Debug\net7.0\WorkingWithObjects.pdb
+C:\Users\Dhanusha\Pictures\WorkingWithObjects\obj\Debug\net7.0\WorkingWithObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dhanusha\Pictures\WorkingWithObjects\obj\Debug\net7.0\WorkingWithObjects.AssemblyInfoInputs.cache
+C:\Users\Dhanusha\Pictures\WorkingWithObjects\obj\Debug\net7.0\WorkingWithObjects.AssemblyInfo.cs
+C:\Users\Dhanusha\Pictures\WorkingWithObjects\obj\Debug\net7.0\WorkingWithObjects.csproj.CoreCompileInputs.cache
+C:\Users\Dhanusha\Pictures\WorkingWithObjects\obj\Debug\net7.0\WorkingWithObjects.dll
+C:\Users\Dhanusha\Pictures\WorkingWithObjects\obj\Debug\net7.0\refint\WorkingWithObjects.dll
+C:\Users\Dhanusha\Pictures\WorkingWithObjects\obj\Debug\net7.0\WorkingWithObjects.pdb
+C:\Users\Dhanusha\Pictures\WorkingWithObjects\obj\Debug\net7.0\WorkingWithObjects.genruntimeconfig.cache
+C:\Users\Dhanusha\Pictures\WorkingWithObjects\obj\Debug\net7.0\ref\WorkingWithObjects.dll
+C:\Users\Dhanusha\Desktop\Ishini akka malli\3.3P\WorkingWithObjects\bin\Debug\net7.0\WorkingWithObjects.exe
+C:\Users\Dhanusha\Desktop\Ishini akka malli\3.3P\WorkingWithObjects\bin\Debug\net7.0\WorkingWithObjects.deps.json
+C:\Users\Dhanusha\Desktop\Ishini akka malli\3.3P\WorkingWithObjects\bin\Debug\net7.0\WorkingWithObjects.runtimeconfig.json
+C:\Users\Dhanusha\Desktop\Ishini akka malli\3.3P\WorkingWithObjects\bin\Debug\net7.0\WorkingWithObjects.dll
+C:\Users\Dhanusha\Desktop\Ishini akka malli\3.3P\WorkingWithObjects\bin\Debug\net7.0\WorkingWithObjects.pdb
+C:\Users\Dhanusha\Desktop\Ishini akka malli\3.3P\WorkingWithObjects\obj\Debug\net7.0\WorkingWithObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dhanusha\Desktop\Ishini akka malli\3.3P\WorkingWithObjects\obj\Debug\net7.0\WorkingWithObjects.AssemblyInfoInputs.cache
+C:\Users\Dhanusha\Desktop\Ishini akka malli\3.3P\WorkingWithObjects\obj\Debug\net7.0\WorkingWithObjects.AssemblyInfo.cs
+C:\Users\Dhanusha\Desktop\Ishini akka malli\3.3P\WorkingWithObjects\obj\Debug\net7.0\WorkingWithObjects.csproj.CoreCompileInputs.cache
+C:\Users\Dhanusha\Desktop\Ishini akka malli\3.3P\WorkingWithObjects\obj\Debug\net7.0\WorkingWithObjects.dll
+C:\Users\Dhanusha\Desktop\Ishini akka malli\3.3P\WorkingWithObjects\obj\Debug\net7.0\refint\WorkingWithObjects.dll
+C:\Users\Dhanusha\Desktop\Ishini akka malli\3.3P\WorkingWithObjects\obj\Debug\net7.0\WorkingWithObjects.pdb
+C:\Users\Dhanusha\Desktop\Ishini akka malli\3.3P\WorkingWithObjects\obj\Debug\net7.0\WorkingWithObjects.genruntimeconfig.cache
+C:\Users\Dhanusha\Desktop\Ishini akka malli\3.3P\WorkingWithObjects\obj\Debug\net7.0\ref\WorkingWithObjects.dll
+C:\Users\Dhanusha\Desktop\Ishini akka malli\3.3P\ShapeDrawing\bin\Debug\net7.0\WorkingWithObjects.exe
+C:\Users\Dhanusha\Desktop\Ishini akka malli\3.3P\ShapeDrawing\bin\Debug\net7.0\WorkingWithObjects.deps.json
+C:\Users\Dhanusha\Desktop\Ishini akka malli\3.3P\ShapeDrawing\bin\Debug\net7.0\WorkingWithObjects.runtimeconfig.json
+C:\Users\Dhanusha\Desktop\Ishini akka malli\3.3P\ShapeDrawing\bin\Debug\net7.0\WorkingWithObjects.dll
+C:\Users\Dhanusha\Desktop\Ishini akka malli\3.3P\ShapeDrawing\bin\Debug\net7.0\WorkingWithObjects.pdb
+C:\Users\Dhanusha\Desktop\Ishini akka malli\3.3P\ShapeDrawing\obj\Debug\net7.0\WorkingWithObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dhanusha\Desktop\Ishini akka malli\3.3P\ShapeDrawing\obj\Debug\net7.0\WorkingWithObjects.AssemblyInfoInputs.cache
+C:\Users\Dhanusha\Desktop\Ishini akka malli\3.3P\ShapeDrawing\obj\Debug\net7.0\WorkingWithObjects.AssemblyInfo.cs
+C:\Users\Dhanusha\Desktop\Ishini akka malli\3.3P\ShapeDrawing\obj\Debug\net7.0\WorkingWithObjects.csproj.CoreCompileInputs.cache
+C:\Users\Dhanusha\Desktop\Ishini akka malli\3.3P\ShapeDrawing\obj\Debug\net7.0\WorkingWithObjects.dll
+C:\Users\Dhanusha\Desktop\Ishini akka malli\3.3P\ShapeDrawing\obj\Debug\net7.0\refint\WorkingWithObjects.dll
+C:\Users\Dhanusha\Desktop\Ishini akka malli\3.3P\ShapeDrawing\obj\Debug\net7.0\WorkingWithObjects.pdb
+C:\Users\Dhanusha\Desktop\Ishini akka malli\3.3P\ShapeDrawing\obj\Debug\net7.0\WorkingWithObjects.genruntimeconfig.cache
+C:\Users\Dhanusha\Desktop\Ishini akka malli\3.3P\ShapeDrawing\obj\Debug\net7.0\ref\WorkingWithObjects.dll
+C:\Users\Dhanusha\Desktop\Ishini akka malli\4.1P\ShapeDrawing\bin\Debug\net7.0\WorkingWithObjects.exe
+C:\Users\Dhanusha\Desktop\Ishini akka malli\4.1P\ShapeDrawing\bin\Debug\net7.0\WorkingWithObjects.deps.json
+C:\Users\Dhanusha\Desktop\Ishini akka malli\4.1P\ShapeDrawing\bin\Debug\net7.0\WorkingWithObjects.runtimeconfig.json
+C:\Users\Dhanusha\Desktop\Ishini akka malli\4.1P\ShapeDrawing\bin\Debug\net7.0\WorkingWithObjects.dll
+C:\Users\Dhanusha\Desktop\Ishini akka malli\4.1P\ShapeDrawing\bin\Debug\net7.0\WorkingWithObjects.pdb
+C:\Users\Dhanusha\Desktop\Ishini akka malli\4.1P\ShapeDrawing\obj\Debug\net7.0\WorkingWithObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dhanusha\Desktop\Ishini akka malli\4.1P\ShapeDrawing\obj\Debug\net7.0\WorkingWithObjects.AssemblyInfoInputs.cache
+C:\Users\Dhanusha\Desktop\Ishini akka malli\4.1P\ShapeDrawing\obj\Debug\net7.0\WorkingWithObjects.AssemblyInfo.cs
+C:\Users\Dhanusha\Desktop\Ishini akka malli\4.1P\ShapeDrawing\obj\Debug\net7.0\WorkingWithObjects.csproj.CoreCompileInputs.cache
+C:\Users\Dhanusha\Desktop\Ishini akka malli\4.1P\ShapeDrawing\obj\Debug\net7.0\WorkingWithObjects.dll
+C:\Users\Dhanusha\Desktop\Ishini akka malli\4.1P\ShapeDrawing\obj\Debug\net7.0\refint\WorkingWithObjects.dll
+C:\Users\Dhanusha\Desktop\Ishini akka malli\4.1P\ShapeDrawing\obj\Debug\net7.0\WorkingWithObjects.pdb
+C:\Users\Dhanusha\Desktop\Ishini akka malli\4.1P\ShapeDrawing\obj\Debug\net7.0\WorkingWithObjects.genruntimeconfig.cache
+C:\Users\Dhanusha\Desktop\Ishini akka malli\4.1P\ShapeDrawing\obj\Debug\net7.0\ref\WorkingWithObjects.dll
+C:\Users\Dhanusha\Desktop\Ishini akka malli\4.1P\ShapeDrawing-Difference\bin\Debug\net7.0\WorkingWithObjects.exe
+C:\Users\Dhanusha\Desktop\Ishini akka malli\4.1P\ShapeDrawing-Difference\bin\Debug\net7.0\WorkingWithObjects.deps.json
+C:\Users\Dhanusha\Desktop\Ishini akka malli\4.1P\ShapeDrawing-Difference\bin\Debug\net7.0\WorkingWithObjects.runtimeconfig.json
+C:\Users\Dhanusha\Desktop\Ishini akka malli\4.1P\ShapeDrawing-Difference\bin\Debug\net7.0\WorkingWithObjects.dll
+C:\Users\Dhanusha\Desktop\Ishini akka malli\4.1P\ShapeDrawing-Difference\bin\Debug\net7.0\WorkingWithObjects.pdb
+C:\Users\Dhanusha\Desktop\Ishini akka malli\4.1P\ShapeDrawing-Difference\obj\Debug\net7.0\WorkingWithObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dhanusha\Desktop\Ishini akka malli\4.1P\ShapeDrawing-Difference\obj\Debug\net7.0\WorkingWithObjects.AssemblyInfoInputs.cache
+C:\Users\Dhanusha\Desktop\Ishini akka malli\4.1P\ShapeDrawing-Difference\obj\Debug\net7.0\WorkingWithObjects.AssemblyInfo.cs
+C:\Users\Dhanusha\Desktop\Ishini akka malli\4.1P\ShapeDrawing-Difference\obj\Debug\net7.0\WorkingWithObjects.csproj.CoreCompileInputs.cache
+C:\Users\Dhanusha\Desktop\Ishini akka malli\4.1P\ShapeDrawing-Difference\obj\Debug\net7.0\WorkingWithObjects.dll
+C:\Users\Dhanusha\Desktop\Ishini akka malli\4.1P\ShapeDrawing-Difference\obj\Debug\net7.0\refint\WorkingWithObjects.dll
+C:\Users\Dhanusha\Desktop\Ishini akka malli\4.1P\ShapeDrawing-Difference\obj\Debug\net7.0\WorkingWithObjects.pdb
+C:\Users\Dhanusha\Desktop\Ishini akka malli\4.1P\ShapeDrawing-Difference\obj\Debug\net7.0\WorkingWithObjects.genruntimeconfig.cache
+C:\Users\Dhanusha\Desktop\Ishini akka malli\4.1P\ShapeDrawing-Difference\obj\Debug\net7.0\ref\WorkingWithObjects.dll
